@@ -4,8 +4,6 @@
 
 ---
 
-![Create repository first page image](./assets/create-new-repo.png)
-
 1. Создайте аккаунт в [GIT HUB](https://github.com/)
 2. В правом верхнем углу рядом с вашим аватаром кликните и затем выберите *New repository*.
 3. В поле *Repository name* введите название вашего проекта
@@ -17,6 +15,9 @@
 6. Отметьте поле *Initialize this repository with a README*.
 7. Кликните на *Create repository*
 
+![Create repository first page image](./assets/create-new-repo.png)
+
+**Удачи!**
 ---
 
 [< назад к Инструкции](./readme.md)

@@ -4,6 +4,6 @@
 
 Напрмире
 
-    ```git clone https://github.com/CatherineII/SkillFactory-Modul4```
+    git clone https://github.com/CatherineII/SkillFactory-Modul4
 
 [< назад к Инструкции](./readme.md)

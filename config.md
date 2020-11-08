@@ -4,8 +4,8 @@
 
 Команда настройки параметров для Git на вашем компьютере
 
-    ```git config --global user.name "Your Name"```
+    git config --global user.name "Your Name"
 
-    ```git config --global user.email "your_email@whatever.com"```
+    `git config --global user.email "your_email@whatever.com"
 
 [< назад к Инструкции](./readme.md)
